@@ -1,0 +1,2981 @@
+{
+    "animals": [
+        {
+            "id": 62076278,
+            "organization_id": "OH959",
+            "url": "https://www.petfinder.com/dog/winston-62076278/oh/urbana/barely-used-pets-inc-oh959/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Airedale Terrier",
+                "secondary": "Beagle",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "Yellow / Tan / Blond / Fawn",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Wire",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": false,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [
+                "Friendly",
+                "Gentle",
+                "Smart",
+                "Brave",
+                "Curious",
+                "Independent",
+                "Funny",
+                "Dignified",
+                "Couch potato"
+            ],
+            "name": "Winston",
+            "description": "I lived on a farm with my person where I had lots of room to run and be outside all...",
+            "organization_animal_id": null,
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:44:21+0000",
+            "published_at": "2023-04-03T17:44:20+0000",
+            "distance": null,
+            "contact": {
+                "email": "barelyusedpets@yahoo.com",
+                "phone": "(937) 869-8090",
+                "address": {
+                    "address1": "844 Jackson Hill Road",
+                    "address2": null,
+                    "city": "Urbana",
+                    "state": "OH",
+                    "postcode": "43078",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076278"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/oh959"
+                }
+            }
+        },
+        {
+            "id": 62076277,
+            "organization_id": "FL118",
+            "url": "https://www.petfinder.com/dog/aiden-62076277/fl/bronson/levy-county-animal-services-fl118/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Black Mouth Cur",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White / Cream",
+                "secondary": "Yellow / Tan / Blond / Fawn",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Aiden",
+            "description": "Aiden is male cur mix, tan in white in color. Approximately 12-14 weeks old. He was dropped off as a...",
+            "organization_animal_id": "0403OKA",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:43:38+0000",
+            "published_at": "2023-04-03T17:43:37+0000",
+            "distance": null,
+            "contact": {
+                "email": "animalservices@levycounty.org",
+                "phone": "(352) 486-5138",
+                "address": {
+                    "address1": "PO Box 61",
+                    "address2": "12051 NE 69th Lane",
+                    "city": "Bronson",
+                    "state": "FL",
+                    "postcode": "32621",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076277"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl118"
+                }
+            }
+        },
+        {
+            "id": 62076274,
+            "organization_id": "FL219",
+            "url": "https://www.petfinder.com/dog/sadie-62076274/fl/daytona-beach/halifax-humane-society-inc-fl219/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sadie",
+            "description": null,
+            "organization_animal_id": "46649798",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:59+0000",
+            "published_at": "2023-04-03T17:42:58+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@halifaxhumanesociety.org",
+                "phone": "(386) 274-4703",
+                "address": {
+                    "address1": "2364 LPGA Blvd",
+                    "address2": null,
+                    "city": "Daytona Beach",
+                    "state": "FL",
+                    "postcode": "32124",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076274"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl219"
+                }
+            }
+        },
+        {
+            "id": 62076273,
+            "organization_id": "OH706",
+            "url": "https://www.petfinder.com/dog/princess-62076273/oh/plain-city/canine-collective-oh706/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Great Pyrenees",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Apricot / Beige",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Princess",
+            "description": "Are you a fan of big dogs with gentle souls? Meet Princess!\nPrincess is a beautiful 4 year old great...",
+            "organization_animal_id": "R1887",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:51+0000",
+            "published_at": "2023-04-03T17:42:50+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@CanineCollective.org",
+                "phone": null,
+                "address": {
+                    "address1": "11144 US 42N",
+                    "address2": null,
+                    "city": "Plain City",
+                    "state": "OH",
+                    "postcode": "43064",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076273"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/oh706"
+                }
+            }
+        },
+        {
+            "id": 62076270,
+            "organization_id": "MN447",
+            "url": "https://www.petfinder.com/dog/milkshake-star-star-foster-or-foster-to-adopt-needed-star-star-62076270/mn/plymouth/the-rescue-crew-mn447/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": "Dachshund",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Milkshake **FOSTER OR FOSTER TO ADOPT NEEDED**",
+            "description": "You can fill out an adoption application online on our official website.Terrier Mix | 7 mos. | 10 lbs. |...",
+            "organization_animal_id": "19151420-23-0262",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:34+0000",
+            "published_at": "2023-04-03T17:42:33+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@rescuecrew.org",
+                "phone": "(612) 299-2001",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Plymouth",
+                    "state": "MN",
+                    "postcode": "55447",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076270"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn447"
+                }
+            }
+        },
+        {
+            "id": 62076269,
+            "organization_id": "NM236",
+            "url": "https://www.petfinder.com/dog/marley-62076269/nm/hagerman/all-hearts-4-paws-nm236/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Australian Shepherd",
+                "secondary": "Border Collie",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Tricolor (Brown, Black, & White)",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [
+                "Friendly",
+                "Playful",
+                "Smart",
+                "Funny",
+                "Loves kisses"
+            ],
+            "name": "Marley",
+            "description": "Marley is an estimated 6 month old Border Collie cross. He is a very happy, healthy puppy who loves to...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/2/?bust=1680543726&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/2/?bust=1680543726&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/2/?bust=1680543726&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/2/?bust=1680543726"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/3/?bust=1680543726&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/3/?bust=1680543726&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/3/?bust=1680543726&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/3/?bust=1680543726"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/4/?bust=1680543727&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/4/?bust=1680543727&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/4/?bust=1680543727&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/4/?bust=1680543727"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/5/?bust=1680543728&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/5/?bust=1680543728&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/5/?bust=1680543728&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/5/?bust=1680543728"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/6/?bust=1680543728&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/6/?bust=1680543728&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/6/?bust=1680543728&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/6/?bust=1680543728"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076269/1/?bust=1680543725"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:11+0000",
+            "published_at": "2023-04-03T17:42:10+0000",
+            "distance": null,
+            "contact": {
+                "email": "christytucker@live.com",
+                "phone": "(575) 420-5263",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Hagerman",
+                    "state": "NM",
+                    "postcode": "88232",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076269"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/nm236"
+                }
+            }
+        },
+        {
+            "id": 62076256,
+            "organization_id": "CA2973",
+            "url": "https://www.petfinder.com/dog/walter-62076256/ca/lincoln/grubby-paws-rescue-ca2973/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [
+                "Friendly",
+                "Affectionate",
+                "Loyal",
+                "Gentle",
+                "Smart",
+                "Independent",
+                "Quiet",
+                "Loves kisses",
+                "Playful"
+            ],
+            "name": "Walter",
+            "description": "Walter is 5 years old and was rescued off the euthanasia list from a local shelter, he’s ready to find...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/2/?bust=1680543622&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/2/?bust=1680543622&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/2/?bust=1680543622&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/2/?bust=1680543622"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076256/1/?bust=1680543621"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:41:05+0000",
+            "published_at": "2023-04-03T17:41:04+0000",
+            "distance": null,
+            "contact": {
+                "email": "grubbypawsrescue@gmail.com",
+                "phone": "(916) 205-9424",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Lincoln",
+                    "state": "CA",
+                    "postcode": "95648",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076256"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ca2973"
+                }
+            }
+        },
+        {
+            "id": 62076259,
+            "organization_id": "FL1190",
+            "url": "https://www.petfinder.com/dog/chopper-ii-62076259/fl/gainesville/plenty-of-pit-bulls-fl1190/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": false
+            },
+            "tags": [],
+            "name": "Chopper II",
+            "description": "Chopper is a very happy pup... has not met a person he did not like! Chopper has completed Man&amp;#39;s Best...",
+            "organization_animal_id": "17966938",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:52+0000",
+            "published_at": "2023-04-03T17:40:51+0000",
+            "distance": null,
+            "contact": {
+                "email": "gainesvillepitbulls@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gainesville",
+                    "state": "FL",
+                    "postcode": "32601",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076259"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl1190"
+                }
+            }
+        },
+        {
+            "id": 62076260,
+            "organization_id": "FL1190",
+            "url": "https://www.petfinder.com/dog/kelly-62076260/fl/gainesville/plenty-of-pit-bulls-fl1190/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Kelly",
+            "description": null,
+            "organization_animal_id": "19000145",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:52+0000",
+            "published_at": "2023-04-03T17:40:51+0000",
+            "distance": null,
+            "contact": {
+                "email": "gainesvillepitbulls@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gainesville",
+                    "state": "FL",
+                    "postcode": "32601",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076260"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl1190"
+                }
+            }
+        },
+        {
+            "id": 62076257,
+            "organization_id": "FL219",
+            "url": "https://www.petfinder.com/dog/morris-62076257/fl/daytona-beach/halifax-humane-society-inc-fl219/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Yorkshire Terrier",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Morris",
+            "description": null,
+            "organization_animal_id": "15081929",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076257/1/?bust=1680543623"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:25+0000",
+            "published_at": "2023-04-03T17:40:24+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@halifaxhumanesociety.org",
+                "phone": "(386) 274-4703",
+                "address": {
+                    "address1": "2364 LPGA Blvd",
+                    "address2": null,
+                    "city": "Daytona Beach",
+                    "state": "FL",
+                    "postcode": "32124",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076257"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl219"
+                }
+            }
+        },
+        {
+            "id": 62076251,
+            "organization_id": "AL121",
+            "url": "https://www.petfinder.com/dog/lemon-icebox-62076251/al/gadsden/humane-society-pet-rescue-and-adoption-center-al121/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brindle",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Lemon Icebox",
+            "description": null,
+            "organization_animal_id": "GAHS-A-4211",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:17+0000",
+            "published_at": "2023-04-03T17:40:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@hsprac.com",
+                "phone": "(256) 442-1347",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gadsden",
+                    "state": "AL",
+                    "postcode": "35904",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076251"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al121"
+                }
+            }
+        },
+        {
+            "id": 62076252,
+            "organization_id": "AL121",
+            "url": "https://www.petfinder.com/dog/silk-62076252/al/gadsden/humane-society-pet-rescue-and-adoption-center-al121/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Silk",
+            "description": null,
+            "organization_animal_id": "GAHS-A-4207",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:17+0000",
+            "published_at": "2023-04-03T17:40:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@hsprac.com",
+                "phone": "(256) 442-1347",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gadsden",
+                    "state": "AL",
+                    "postcode": "35904",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076252"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al121"
+                }
+            }
+        },
+        {
+            "id": 62076253,
+            "organization_id": "AL121",
+            "url": "https://www.petfinder.com/dog/apple-62076253/al/gadsden/humane-society-pet-rescue-and-adoption-center-al121/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Apple",
+            "description": null,
+            "organization_animal_id": "GAHS-A-4210",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:17+0000",
+            "published_at": "2023-04-03T17:40:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@hsprac.com",
+                "phone": "(256) 442-1347",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gadsden",
+                    "state": "AL",
+                    "postcode": "35904",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076253"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al121"
+                }
+            }
+        },
+        {
+            "id": 62076254,
+            "organization_id": "AL121",
+            "url": "https://www.petfinder.com/dog/cherry-62076254/al/gadsden/humane-society-pet-rescue-and-adoption-center-al121/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Gray / Blue / Silver",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Cherry",
+            "description": null,
+            "organization_animal_id": "GAHS-A-4209",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:17+0000",
+            "published_at": "2023-04-03T17:40:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@hsprac.com",
+                "phone": "(256) 442-1347",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gadsden",
+                    "state": "AL",
+                    "postcode": "35904",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076254"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al121"
+                }
+            }
+        },
+        {
+            "id": 62076255,
+            "organization_id": "AL121",
+            "url": "https://www.petfinder.com/dog/keylime-62076255/al/gadsden/humane-society-pet-rescue-and-adoption-center-al121/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Gray / Blue / Silver",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Keylime",
+            "description": null,
+            "organization_animal_id": "GAHS-A-4208",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:17+0000",
+            "published_at": "2023-04-03T17:40:16+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@hsprac.com",
+                "phone": "(256) 442-1347",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Gadsden",
+                    "state": "AL",
+                    "postcode": "35904",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076255"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al121"
+                }
+            }
+        },
+        {
+            "id": 62076250,
+            "organization_id": "ID51",
+            "url": "https://www.petfinder.com/dog/daisy-62076250/id/rexburg/city-of-rexburg-animal-shelter-id51/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Cattle Dog",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Daisy",
+            "description": "AVAILABLE 04/02/2023\n\nHELLO EVERYONE!!! My name is Daisy, I am a female cattle dog mix between 1-3 years old. I...",
+            "organization_animal_id": "REX-A-4222",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:14+0000",
+            "published_at": "2023-04-03T17:40:13+0000",
+            "distance": null,
+            "contact": {
+                "email": "AnimalShelter@rexburg.org",
+                "phone": "208-359-3005  ",
+                "address": {
+                    "address1": "490 W 4th N",
+                    "address2": null,
+                    "city": "Rexburg",
+                    "state": "ID",
+                    "postcode": "83440",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076250"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/id51"
+                }
+            }
+        },
+        {
+            "id": 62076245,
+            "organization_id": "MN465",
+            "url": "https://www.petfinder.com/dog/nugget-62076245/mn/crystal/healing-hearts-rescue-inc-mn465/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "German Shepherd Dog",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nugget",
+            "description": "You can fill out an adoption application online on our official website.\n\nDid I catch your eye? Learn more about...",
+            "organization_animal_id": "19126999-23-0117",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:39:39+0000",
+            "published_at": "2023-04-03T17:39:38+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@healingheartsrescue.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Crystal",
+                    "state": "MN",
+                    "postcode": "55428",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076245"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn465"
+                }
+            }
+        },
+        {
+            "id": 62076244,
+            "organization_id": "TX534",
+            "url": "https://www.petfinder.com/dog/fiona-62076244/tx/waco/fuzzy-friends-rescue-tx534/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Fiona",
+            "description": "Could this be your new best friend?Approx. Weight:6.60 lbs\nEstimated DOB:2/10/2022\nArrival Date:\nAdoption Fee: $325\n*NOTE* We allow out...",
+            "organization_animal_id": "19139104",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:39:33+0000",
+            "published_at": "2023-04-03T17:39:32+0000",
+            "distance": null,
+            "contact": {
+                "email": "volunteer@fuzzyfriendsrescue.com",
+                "phone": "(254) 754-9444",
+                "address": {
+                    "address1": "6321 Airport Road",
+                    "address2": null,
+                    "city": "Waco",
+                    "state": "TX",
+                    "postcode": "76702",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076244"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/tx534"
+                }
+            }
+        },
+        {
+            "id": 62076241,
+            "organization_id": "WA650",
+            "url": "https://www.petfinder.com/dog/velvet-62076241/wa/seattle/dog-gone-seattle-wa650/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Velvet",
+            "description": "FOSTER NEEDED SAT APRIL 8\n\nAnimal Profile: Velvet is an estimated 8-month-old, 18 lb spayed female &amp;#34;lab&amp;#34; mix who was...",
+            "organization_animal_id": "19164363-A51979584",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:38:51+0000",
+            "published_at": "2023-04-03T17:38:50+0000",
+            "distance": null,
+            "contact": {
+                "email": "adopt@doggoneseattle.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Seattle",
+                    "state": "WA",
+                    "postcode": "98165",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076241"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/wa650"
+                }
+            }
+        },
+        {
+            "id": 62076242,
+            "organization_id": "WA650",
+            "url": "https://www.petfinder.com/dog/potato-62076242/wa/seattle/dog-gone-seattle-wa650/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Staffordshire Bull Terrier",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": true,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Potato",
+            "description": "FOSTER NEEDED SAT APRIL 8\n\nAnimal Profile: Potato is an estimated 4-month-old, 25 lb male bully breed mix who was...",
+            "organization_animal_id": "19164371-A52191385",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:38:51+0000",
+            "published_at": "2023-04-03T17:38:50+0000",
+            "distance": null,
+            "contact": {
+                "email": "adopt@doggoneseattle.org",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Seattle",
+                    "state": "WA",
+                    "postcode": "98165",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076242"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/wa650"
+                }
+            }
+        },
+        {
+            "id": 62076305,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/jackie-62076305/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brindle",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Energetic",
+                "Family Pet",
+                "Playful",
+                "Silly",
+                "Zoomie Lover"
+            ],
+            "name": "Jackie",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34589",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076305"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076306,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/runt-62076306/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Energetic",
+                "Explorer",
+                "Extrovert or Outgoing"
+            ],
+            "name": "Runt",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34412",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076306"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076307,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/valley-62076307/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Affectionate",
+                "Cuddly",
+                "Energetic",
+                "Explorer",
+                "Friendly",
+                "Intelligent",
+                "Playful",
+                "Silly",
+                "Treat motivated"
+            ],
+            "name": "Valley",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34534",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076307"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076308,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/goodboy-62076308/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown / Chocolate",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Goodboy",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34588",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076308"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076309,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/jerry-62076309/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White / Cream",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Jerry",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34480",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076309"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076310,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/stormfly-62076310/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White / Cream",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Stormfly",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34107",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076310"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076311,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/hyde-62076311/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Calm",
+                "Friendly",
+                "Shy Timid"
+            ],
+            "name": "Hyde",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34522",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076311"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076313,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/twig-62076313/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Energetic",
+                "Explorer",
+                "Extrovert or Outgoing"
+            ],
+            "name": "Twig",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34411",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076313"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076314,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/foxx-62076314/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": "Black Labrador Retriever",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Affectionate",
+                "Friendly",
+                "Playful",
+                "Silly"
+            ],
+            "name": "Foxx",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34537",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076314"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076315,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/zoey-62076315/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Affectionate",
+                "Energetic",
+                "Extrovert or Outgoing",
+                "Friendly",
+                "Playful",
+                "Silly"
+            ],
+            "name": "Zoey",
+            "description": null,
+            "organization_animal_id": "SHAL-A-34530",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076315"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076316,
+            "organization_id": "AL09",
+            "url": "https://www.petfinder.com/dog/vanilla-bean-62076316/al/columbiana/shelby-humane-society-al09/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Mixed Breed",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White / Cream",
+                "secondary": "Yellow / Tan / Blond / Fawn",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Vanilla Bean",
+            "description": null,
+            "organization_animal_id": "SHAL-A-26305",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:18+0000",
+            "published_at": "2023-04-03T17:45:17+0000",
+            "distance": null,
+            "contact": {
+                "email": "Adoptions@shelbyhumane.org",
+                "phone": "(205) 669-3916",
+                "address": {
+                    "address1": "381 McDow Road",
+                    "address2": null,
+                    "city": "Columbiana",
+                    "state": "AL",
+                    "postcode": "35051",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076316"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al09"
+                }
+            }
+        },
+        {
+            "id": 62076283,
+            "organization_id": "PA247",
+            "url": "https://www.petfinder.com/dog/max-62076283/pa/philadelphia/morris-animal-refuge-pa247/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Jack Russell Terrier",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Gray / Blue / Silver",
+                "secondary": "Brown / Chocolate",
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "I ve Lived with Kids",
+                "I ve Lived with Large Dogs"
+            ],
+            "name": "Max",
+            "description": null,
+            "organization_animal_id": "MAR-A-7348",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:16+0000",
+            "published_at": "2023-04-03T17:45:15+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@morrisanimalrefuge.org",
+                "phone": "(215) 735-9570",
+                "address": {
+                    "address1": "1242 Lombard Street",
+                    "address2": null,
+                    "city": "Philadelphia",
+                    "state": "PA",
+                    "postcode": "19147",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076283"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/pa247"
+                }
+            }
+        },
+        {
+            "id": 62076282,
+            "organization_id": "IN157",
+            "url": "https://www.petfinder.com/dog/loki-62076282/in/michigan-city/michiana-humane-society-and-spca-in157/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown / Chocolate",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Dog Friendly"
+            ],
+            "name": "Loki",
+            "description": "This teeny tiny 5-pound, four-year-old, neutered handsome good boy is Loki! He is the ultimate snuggler of all snugglers! All...",
+            "organization_animal_id": "MHS-A-1979",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:15+0000",
+            "published_at": "2023-04-03T17:45:14+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@michianapets.org",
+                "phone": "(219) 872-4499",
+                "address": {
+                    "address1": "722 IN Hwy 212",
+                    "address2": null,
+                    "city": "Michigan City",
+                    "state": "IN",
+                    "postcode": "46361",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076282"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/in157"
+                }
+            }
+        },
+        {
+            "id": 62076280,
+            "organization_id": "MD35",
+            "url": "https://www.petfinder.com/dog/zeke-62076280/md/waldorf/humane-society-of-charles-county-md-md35/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "German Shepherd Dog",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "Brown / Chocolate",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "No Cats",
+                "No Small Animals",
+                "Older Children Only",
+                "Prefers Men"
+            ],
+            "name": "Zeke",
+            "description": null,
+            "organization_animal_id": "HSCC-A-21958",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:13+0000",
+            "published_at": "2023-04-03T17:45:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "hsccadoptioninquiries@gmail.com",
+                "phone": "(301) 645-8181",
+                "address": {
+                    "address1": "71 Industrial Park Dr",
+                    "address2": null,
+                    "city": "Waldorf",
+                    "state": "MD",
+                    "postcode": "20604",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076280"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/md35"
+                }
+            }
+        },
+        {
+            "id": 62076281,
+            "organization_id": "MN289",
+            "url": "https://www.petfinder.com/dog/biscuit-fka-indigo-d7347-62076281/mn/minnetonka/secondhand-hounds-mn289/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Chihuahua",
+                "secondary": "Terrier",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": false,
+                "cats": null
+            },
+            "tags": [
+                "Affectionate",
+                "Crate trained",
+                "Energy level low",
+                "Energy level moderate",
+                "Good with older considerate children",
+                "Goofy",
+                "House trained",
+                "Intelligent",
+                "Lap pet",
+                "Leash trained",
+                "Likes to fetch",
+                "Likes toys Playful",
+                "No cats",
+                "Single Dog Home"
+            ],
+            "name": "Biscuit (fka Indigo) D7347",
+            "description": "Hi! My name is Biscuit and I am an owner surrender.\n\nBiscuit is a goofy, sweet, smart, and cuddly little...",
+            "organization_animal_id": "SHMN-A-7347",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:45:13+0000",
+            "published_at": "2023-04-03T17:45:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "inquiry@secondhandhounds.org",
+                "phone": null,
+                "address": {
+                    "address1": "5959 Baker Rd",
+                    "address2": "Suite 390",
+                    "city": "Minnetonka",
+                    "state": "MN",
+                    "postcode": "55345",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076281"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn289"
+                }
+            }
+        },
+        {
+            "id": 62076278,
+            "organization_id": "OH959",
+            "url": "https://www.petfinder.com/dog/winston-62076278/oh/urbana/barely-used-pets-inc-oh959/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Airedale Terrier",
+                "secondary": "Beagle",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "Yellow / Tan / Blond / Fawn",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Wire",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": false,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [
+                "Friendly",
+                "Gentle",
+                "Smart",
+                "Brave",
+                "Curious",
+                "Independent",
+                "Funny",
+                "Dignified",
+                "Couch potato"
+            ],
+            "name": "Winston",
+            "description": "I lived on a farm with my person where I had lots of room to run and be outside all...",
+            "organization_animal_id": null,
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:44:21+0000",
+            "published_at": "2023-04-03T17:44:20+0000",
+            "distance": null,
+            "contact": {
+                "email": "barelyusedpets@yahoo.com",
+                "phone": "(937) 869-8090",
+                "address": {
+                    "address1": "844 Jackson Hill Road",
+                    "address2": null,
+                    "city": "Urbana",
+                    "state": "OH",
+                    "postcode": "43078",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076278"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/oh959"
+                }
+            }
+        },
+        {
+            "id": 62076277,
+            "organization_id": "FL118",
+            "url": "https://www.petfinder.com/dog/aiden-62076277/fl/bronson/levy-county-animal-services-fl118/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Black Mouth Cur",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White / Cream",
+                "secondary": "Yellow / Tan / Blond / Fawn",
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Aiden",
+            "description": "Aiden is male cur mix, tan in white in color. Approximately 12-14 weeks old. He was dropped off as a...",
+            "organization_animal_id": "0403OKA",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/2/?bust=1680543816"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076277/1/?bust=1680543815"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:43:38+0000",
+            "published_at": "2023-04-03T17:43:37+0000",
+            "distance": null,
+            "contact": {
+                "email": "animalservices@levycounty.org",
+                "phone": "(352) 486-5138",
+                "address": {
+                    "address1": "PO Box 61",
+                    "address2": "12051 NE 69th Lane",
+                    "city": "Bronson",
+                    "state": "FL",
+                    "postcode": "32621",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076277"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl118"
+                }
+            }
+        },
+        {
+            "id": 62076274,
+            "organization_id": "FL219",
+            "url": "https://www.petfinder.com/dog/sadie-62076274/fl/daytona-beach/halifax-humane-society-inc-fl219/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Labrador Retriever",
+                "secondary": "Mixed Breed",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Yellow / Tan / Blond / Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sadie",
+            "description": null,
+            "organization_animal_id": "46649798",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/2/?bust=1680543777"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076274/1/?bust=1680543776"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:59+0000",
+            "published_at": "2023-04-03T17:42:58+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@halifaxhumanesociety.org",
+                "phone": "(386) 274-4703",
+                "address": {
+                    "address1": "2364 LPGA Blvd",
+                    "address2": null,
+                    "city": "Daytona Beach",
+                    "state": "FL",
+                    "postcode": "32124",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076274"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl219"
+                }
+            }
+        },
+        {
+            "id": 62076273,
+            "organization_id": "OH706",
+            "url": "https://www.petfinder.com/dog/princess-62076273/oh/plain-city/canine-collective-oh706/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Great Pyrenees",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Apricot / Beige",
+                "secondary": "White / Cream",
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Large",
+            "coat": "Medium",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Princess",
+            "description": "Are you a fan of big dogs with gentle souls? Meet Princess!\nPrincess is a beautiful 4 year old great...",
+            "organization_animal_id": "R1887",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:51+0000",
+            "published_at": "2023-04-03T17:42:50+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@CanineCollective.org",
+                "phone": null,
+                "address": {
+                    "address1": "11144 US 42N",
+                    "address2": null,
+                    "city": "Plain City",
+                    "state": "OH",
+                    "postcode": "43064",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076273"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/oh706"
+                }
+            }
+        },
+        {
+            "id": 62076270,
+            "organization_id": "MN447",
+            "url": "https://www.petfinder.com/dog/milkshake-star-star-foster-or-foster-to-adopt-needed-star-star-62076270/mn/plymouth/the-rescue-crew-mn447/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Dog",
+            "species": "Dog",
+            "breeds": {
+                "primary": "Terrier",
+                "secondary": "Dachshund",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Milkshake **FOSTER OR FOSTER TO ADOPT NEEDED**",
+            "description": "You can fill out an adoption application online on our official website.Terrier Mix | 7 mos. | 10 lbs. |...",
+            "organization_animal_id": "19151420-23-0262",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:34+0000",
+            "published_at": "2023-04-03T17:42:33+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@rescuecrew.org",
+                "phone": "(612) 299-2001",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Plymouth",
+                    "state": "MN",
+                    "postcode": "55447",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076270"
+                },
+                "type": {
+                    "href": "/v2/types/dog"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn447"
+                }
+            }
+        }
+
+    ],
+    "pagination": {
+        "count_per_page": 20,
+        "total_count": 145616,
+        "current_page": 1,
+        "total_pages": 7281,
+        "_links": {
+            "next": {
+                "href": "/v2/animals?page=2&type=dog"
+            }
+        }
+    }
+}

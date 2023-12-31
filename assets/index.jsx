@@ -1,0 +1,10 @@
+export const Dog1 = require('./pets/Dog1.png');
+export const Dog2 = require('./pets/Dog2.png');
+export const Dog3 = require('./pets/Dog3.png');
+export const Dog4 = require('./pets/Dog4.png');
+export const Dog5 = require('./pets/Dog5.png');
+export const Cat1 = require('./pets/Cat1.png');
+export const Cat2 = require('./pets/Cat2.png');
+export const Cat3 = require('./pets/Cat3.png');
+export const Cat4 = require('./pets/Cat4.png');
+export const Cat5 = require('./pets/Cat5.png');

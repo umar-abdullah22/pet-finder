@@ -1,0 +1,1545 @@
+{
+    "animals": [
+        {
+            "id": 62076276,
+            "organization_id": "MN52",
+            "url": "https://www.petfinder.com/cat/shadowfoot-62076276/mn/saint-cloud/tri-county-humane-society-mn52/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Tabby (Brown / Chocolate)",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Shadowfoot",
+            "description": "Say hello to Shadowfoot~~They came to TCHS due to too many cats in the home~~ They have not been around...",
+            "organization_animal_id": "52143274 ",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/2/?bust=1680543804&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/2/?bust=1680543804&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/2/?bust=1680543804&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/2/?bust=1680543804"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/3/?bust=1680543805&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/3/?bust=1680543805&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/3/?bust=1680543805&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/3/?bust=1680543805"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076276/1/?bust=1680543804"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:43:27+0000",
+            "published_at": "2023-04-03T17:43:26+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@tricountyhumanesociety.org",
+                "phone": "(320) 252-0896",
+                "address": {
+                    "address1": "735 8th St. NE",
+                    "address2": "PO Box 701",
+                    "city": "Saint Cloud",
+                    "state": "MN",
+                    "postcode": "56302",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076276"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn52"
+                }
+            }
+        },
+        {
+            "id": 62076272,
+            "organization_id": "OH1217",
+            "url": "https://www.petfinder.com/cat/nubbins-62076272/oh/dayton/gem-city-kitties-oh1217/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown / Chocolate",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nubbins",
+            "description": "Nubbins is graciously sponsored by Erika Lamb!\nThis girl is so friendly! She would spend all day being petted and...",
+            "organization_animal_id": "R1255",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:46+0000",
+            "published_at": "2023-04-03T17:42:45+0000",
+            "distance": null,
+            "contact": {
+                "email": "adopt@gemcitykitties.org",
+                "phone": "(937) 949-9170",
+                "address": {
+                    "address1": "1513 E 5th St.",
+                    "address2": null,
+                    "city": "Dayton",
+                    "state": "OH",
+                    "postcode": "45403",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076272"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/oh1217"
+                }
+            }
+        },
+        {
+            "id": 62076271,
+            "organization_id": "TX2471",
+            "url": "https://www.petfinder.com/cat/sushi-62076271/tx/el-paso/el-paso-animal-services-tx2471/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sushi",
+            "description": null,
+            "organization_animal_id": "51929290",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:35+0000",
+            "published_at": "2023-04-03T17:42:34+0000",
+            "distance": null,
+            "contact": {
+                "email": "epasadoptions@elpasotexas.gov",
+                "phone": "(915) 212-7297",
+                "address": {
+                    "address1": "5001 Fred Wilson",
+                    "address2": null,
+                    "city": "El Paso",
+                    "state": "TX",
+                    "postcode": "79906",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076271"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/tx2471"
+                }
+            }
+        },
+        {
+            "id": 62076267,
+            "organization_id": "MN52",
+            "url": "https://www.petfinder.com/cat/casey-62076267/mn/saint-cloud/tri-county-humane-society-mn52/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Siamese",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Flame Point",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": false,
+                "dogs": false,
+                "cats": false
+            },
+            "tags": [],
+            "name": "Casey",
+            "description": "Meet Casey! (Also goes by Casers, Case, and Casey James) ~~ He popped his way into the shelter after being...",
+            "organization_animal_id": "51844458 ",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/2/?bust=1680543723&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/2/?bust=1680543723&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/2/?bust=1680543723&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/2/?bust=1680543723"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/3/?bust=1680543724&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/3/?bust=1680543724&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/3/?bust=1680543724&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/3/?bust=1680543724"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076267/1/?bust=1680543722"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:42:06+0000",
+            "published_at": "2023-04-03T17:42:05+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@tricountyhumanesociety.org",
+                "phone": "(320) 252-0896",
+                "address": {
+                    "address1": "735 8th St. NE",
+                    "address2": "PO Box 701",
+                    "city": "Saint Cloud",
+                    "state": "MN",
+                    "postcode": "56302",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076267"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn52"
+                }
+            }
+        },
+        {
+            "id": 62076258,
+            "organization_id": "AL513",
+            "url": "https://www.petfinder.com/cat/fonzie-62076258/al/randolph/the-country-cattery-al513/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Turkish Van",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Large",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Fonzie",
+            "description": "Looking for a gorgeous and gregarious feline friend? Meet Fonzie - a big, white, and strikingly marked kitty who&#039;s as...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076258/1/?bust=1680543638"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:40+0000",
+            "published_at": "2023-04-03T17:40:39+0000",
+            "distance": null,
+            "contact": {
+                "email": "thecountrycatteryal@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Randolph",
+                    "state": "AL",
+                    "postcode": "36792",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076258"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al513"
+                }
+            }
+        },
+        {
+            "id": 62076249,
+            "organization_id": "TX140",
+            "url": "https://www.petfinder.com/cat/bear-62076249/tx/kyle/paws-shelter-of-central-texas-tx140/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Medium Hair",
+                "secondary": "Domestic Short Hair",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Large",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [
+                "Good Interactions with Dogs"
+            ],
+            "name": "BEAR",
+            "description": "Look no further- you have just stumbled upon your perfect cat! I&amp;#39;m Bear, and I am a total cuddle bug....",
+            "organization_animal_id": "PSCT-A-9922",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:13+0000",
+            "published_at": "2023-04-03T17:40:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoption@pawsshelter.org",
+                "phone": "(512) 268-1611",
+                "address": {
+                    "address1": "500 FM 150 East",
+                    "address2": null,
+                    "city": "Kyle",
+                    "state": "TX",
+                    "postcode": "78640",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076249"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/tx140"
+                }
+            }
+        },
+        {
+            "id": 62076247,
+            "organization_id": "NM198",
+            "url": "https://www.petfinder.com/cat/patches-62076247/nm/las-cruces/cats-meow-adoption-center-nm198/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Siamese",
+                "secondary": "Domestic Short Hair",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Blue Point",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Patches",
+            "description": "PATCHES is a 7 year old male Siamese.  He is missing 1 eye, but that does not stop him from...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/2/?bust=1680543610&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/2/?bust=1680543610&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/2/?bust=1680543610&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/2/?bust=1680543610"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/3/?bust=1680543611&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/3/?bust=1680543611&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/3/?bust=1680543611&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/3/?bust=1680543611"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076247/1/?bust=1680543609"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:13+0000",
+            "published_at": "2023-04-03T17:40:12+0000",
+            "distance": null,
+            "contact": {
+                "email": "corella@zianet.com",
+                "phone": "(575) 639-3036",
+                "address": {
+                    "address1": "2211 N. Mesquite",
+                    "address2": null,
+                    "city": "Las Cruces",
+                    "state": "NM",
+                    "postcode": "88001",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076247"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/nm198"
+                }
+            }
+        },
+        {
+            "id": 62076248,
+            "organization_id": "IA172",
+            "url": "https://www.petfinder.com/cat/haku-62076248/ia/west-des-moines/furry-friends-refuge-ia172/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Orange / Red",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Haku",
+            "description": null,
+            "organization_animal_id": "FFS-A-14657",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:40:11+0000",
+            "published_at": "2023-04-03T17:40:10+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@furryfriendsrefuge.org",
+                "phone": "(515) 222-0009",
+                "address": {
+                    "address1": "3505 Mills Civic Parkway",
+                    "address2": null,
+                    "city": "West Des Moines",
+                    "state": "IA",
+                    "postcode": "50265",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076248"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ia172"
+                }
+            }
+        },
+        {
+            "id": 62076246,
+            "organization_id": "MN52",
+            "url": "https://www.petfinder.com/cat/cougar-62076246/mn/saint-cloud/tri-county-humane-society-mn52/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": true,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Cougar",
+            "description": "Meet Cougar, also known as Cougs! This handsome guy came to TCHS due to the death of his owner, was...",
+            "organization_animal_id": "51365838",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/2/?bust=1680543589&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/2/?bust=1680543589&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/2/?bust=1680543589&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/2/?bust=1680543589"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076246/1/?bust=1680543589"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:39:51+0000",
+            "published_at": "2023-04-03T17:39:50+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@tricountyhumanesociety.org",
+                "phone": "(320) 252-0896",
+                "address": {
+                    "address1": "735 8th St. NE",
+                    "address2": "PO Box 701",
+                    "city": "Saint Cloud",
+                    "state": "MN",
+                    "postcode": "56302",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076246"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn52"
+                }
+            }
+        },
+        {
+            "id": 62076240,
+            "organization_id": "TX1120",
+            "url": "https://www.petfinder.com/cat/foxy-62076240/tx/plano/cat-matchers-tx1120/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": "Tuxedo",
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Gray & White",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": true,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Foxy",
+            "description": "All of our cats are current on vaccines, combo tested (FIV/FELV) , spayed/neutered, microchipped, given rabies vaccine as age appropriate,...",
+            "organization_animal_id": "19164369-T-MSW1-23",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:38:39+0000",
+            "published_at": "2023-04-03T17:38:38+0000",
+            "distance": null,
+            "contact": {
+                "email": "catmatchers@yahoo.com",
+                "phone": "(972) 458-7877",
+                "address": {
+                    "address1": "PO Box 262571",
+                    "address2": null,
+                    "city": "Plano",
+                    "state": "TX",
+                    "postcode": "75026",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076240"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/tx1120"
+                }
+            }
+        },
+        {
+            "id": 62076236,
+            "organization_id": "MN52",
+            "url": "https://www.petfinder.com/cat/titan-62076236/mn/saint-cloud/tri-county-humane-society-mn52/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Tabby (Brown / Chocolate)",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Titan",
+            "description": "Say hello to Titan!~~This big guy came to TCHS due to being an unplanned litter to an outdoor kitty under...",
+            "organization_animal_id": "50796849 ",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/2/?bust=1680543509&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/2/?bust=1680543509&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/2/?bust=1680543509&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/2/?bust=1680543509"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/3/?bust=1680543510&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/3/?bust=1680543510&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/3/?bust=1680543510&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/3/?bust=1680543510"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076236/1/?bust=1680543509"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:38:32+0000",
+            "published_at": "2023-04-03T17:38:31+0000",
+            "distance": null,
+            "contact": {
+                "email": "pets@tricountyhumanesociety.org",
+                "phone": "(320) 252-0896",
+                "address": {
+                    "address1": "735 8th St. NE",
+                    "address2": "PO Box 701",
+                    "city": "Saint Cloud",
+                    "state": "MN",
+                    "postcode": "56302",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076236"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/mn52"
+                }
+            }
+        },
+        {
+            "id": 62076235,
+            "organization_id": "CA2430",
+            "url": "https://www.petfinder.com/cat/waffle-62076235/ca/oceanside/san-diego-humane-society-oceanside-campus-for-cats-and-small-animals-ca2430/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Waffle",
+            "description": "How this pet arrived: Waffle was brought into care by a Field Services Officer on March 30, 2023.Why this pet...",
+            "organization_animal_id": "855772",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:38:26+0000",
+            "published_at": "2023-04-03T17:38:25+0000",
+            "distance": null,
+            "contact": {
+                "email": null,
+                "phone": "(619) 299-7012",
+                "address": {
+                    "address1": "572 Airport Road",
+                    "address2": null,
+                    "city": "Oceanside",
+                    "state": "CA",
+                    "postcode": "92058",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076235"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ca2430"
+                }
+            }
+        },
+        {
+            "id": 62076232,
+            "organization_id": "AL513",
+            "url": "https://www.petfinder.com/cat/milo-62076232/al/randolph/the-country-cattery-al513/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Tuxedo",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black & White / Tuxedo",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": "Short",
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": true,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": true,
+                "dogs": null,
+                "cats": true
+            },
+            "tags": [],
+            "name": "Milo",
+            "description": "Milo is the perfect feline companion for anyone looking for a balance of relaxation and fun. With his stunning tuxedo...",
+            "organization_animal_id": null,
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076232/1/?bust=1680543440"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:37:23+0000",
+            "published_at": "2023-04-03T17:37:22+0000",
+            "distance": null,
+            "contact": {
+                "email": "thecountrycatteryal@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Randolph",
+                    "state": "AL",
+                    "postcode": "36792",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076232"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/al513"
+                }
+            }
+        },
+        {
+            "id": 62076220,
+            "organization_id": "FL128",
+            "url": "https://www.petfinder.com/cat/theodore-62076220/fl/gainesville/humane-society-of-north-central-florida-fl128/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown / Chocolate",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Theodore",
+            "description": null,
+            "organization_animal_id": "CHUA-A-43198",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:35:10+0000",
+            "published_at": "2023-04-03T17:35:09+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@humanesocietyncfl.org",
+                "phone": "(352) 373-5855",
+                "address": {
+                    "address1": "4205 NW 6th Street",
+                    "address2": null,
+                    "city": "Gainesville",
+                    "state": "FL",
+                    "postcode": "32609",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076220"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl128"
+                }
+            }
+        },
+        {
+            "id": 62076221,
+            "organization_id": "FL128",
+            "url": "https://www.petfinder.com/cat/yang-62076221/fl/gainesville/humane-society-of-north-central-florida-fl128/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "White",
+                "secondary": "Black",
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Yang",
+            "description": null,
+            "organization_animal_id": "CHUA-A-43196",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:35:10+0000",
+            "published_at": "2023-04-03T17:35:09+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@humanesocietyncfl.org",
+                "phone": "(352) 373-5855",
+                "address": {
+                    "address1": "4205 NW 6th Street",
+                    "address2": null,
+                    "city": "Gainesville",
+                    "state": "FL",
+                    "postcode": "32609",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076221"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl128"
+                }
+            }
+        },
+        {
+            "id": 62076222,
+            "organization_id": "FL128",
+            "url": "https://www.petfinder.com/cat/kellin-62076222/fl/gainesville/humane-society-of-north-central-florida-fl128/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Brown / Chocolate",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Kellin",
+            "description": null,
+            "organization_animal_id": "CHUA-A-43199",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:35:10+0000",
+            "published_at": "2023-04-03T17:35:09+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@humanesocietyncfl.org",
+                "phone": "(352) 373-5855",
+                "address": {
+                    "address1": "4205 NW 6th Street",
+                    "address2": null,
+                    "city": "Gainesville",
+                    "state": "FL",
+                    "postcode": "32609",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076222"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl128"
+                }
+            }
+        },
+        {
+            "id": 62076223,
+            "organization_id": "FL128",
+            "url": "https://www.petfinder.com/cat/yin-62076223/fl/gainesville/humane-society-of-north-central-florida-fl128/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Black",
+                "secondary": "White",
+                "tertiary": null
+            },
+            "age": "Senior",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Yin",
+            "description": null,
+            "organization_animal_id": "CHUA-A-43195",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:35:10+0000",
+            "published_at": "2023-04-03T17:35:09+0000",
+            "distance": null,
+            "contact": {
+                "email": "info@humanesocietyncfl.org",
+                "phone": "(352) 373-5855",
+                "address": {
+                    "address1": "4205 NW 6th Street",
+                    "address2": null,
+                    "city": "Gainesville",
+                    "state": "FL",
+                    "postcode": "32609",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076223"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/fl128"
+                }
+            }
+        },
+        {
+            "id": 62076213,
+            "organization_id": "OH82",
+            "url": "https://www.petfinder.com/cat/sunshine-62076213/oh/washington-township/sicsa-oh82/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": "Buff / Tan / Fawn",
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Sunshine",
+            "description": "Hello! This cat is new here, so check back for additional information or talk to an adoption counselor to find...",
+            "organization_animal_id": "SIC-A-17342",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:35:09+0000",
+            "published_at": "2023-04-03T17:35:08+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@sicsa.org",
+                "phone": "(937) 294-6505",
+                "address": {
+                    "address1": "8172 Washington Church Rd.",
+                    "address2": null,
+                    "city": "Washington Township",
+                    "state": "OH",
+                    "postcode": "45458",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076213"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/oh82"
+                }
+            }
+        },
+        {
+            "id": 62076204,
+            "organization_id": "WI507",
+            "url": "https://www.petfinder.com/cat/gizmo-62076204/wi/sheboygan/humane-society-of-sheboygan-county-wi507/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Gizmo",
+            "description": "Primary Color: Seal Point Weight: 8.72lbs Age: 1yrs 0mths 2wks Animal has been Neutered",
+            "organization_animal_id": "39287",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:31:58+0000",
+            "published_at": "2023-04-03T17:31:57+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@scadopt.org",
+                "phone": "(920) 458-2012",
+                "address": {
+                    "address1": "3209 N 21st Street",
+                    "address2": null,
+                    "city": "Sheboygan",
+                    "state": "WI",
+                    "postcode": "53083",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076204"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/wi507"
+                }
+            }
+        },
+        {
+            "id": 62076199,
+            "organization_id": "ID49",
+            "url": "https://www.petfinder.com/cat/darlene-38297-62076199/id/pocatello/pocatello-animal-shelter-id49/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Cat",
+            "species": "Cat",
+            "breeds": {
+                "primary": "Domestic Short Hair",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": true,
+                "house_trained": false,
+                "declawed": false,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Darlene 38297",
+            "description": "Primary Color: Black Weight: 6.4375lbs Age: 1yrs 1mths 0wks Animal has been Spayed I am available for adoption at the...",
+            "organization_animal_id": "38297",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/2/?bust=1680543698&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/2/?bust=1680543698&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/2/?bust=1680543698&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/2/?bust=1680543698"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/3/?bust=1680543698&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/3/?bust=1680543698&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/3/?bust=1680543698&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/3/?bust=1680543698"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/4/?bust=1680543698&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/4/?bust=1680543698&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/4/?bust=1680543698&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/4/?bust=1680543698"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62076199/1/?bust=1680543698"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-03T17:31:27+0000",
+            "published_at": "2023-04-03T17:31:25+0000",
+            "distance": null,
+            "contact": {
+                "email": "pokypets@pocatello.us",
+                "phone": "(208) 234-6156",
+                "address": {
+                    "address1": "P.O. Box 4169",
+                    "address2": "3100 Avenue of the Chiefs",
+                    "city": "Pocatello",
+                    "state": "ID",
+                    "postcode": "83205",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62076199"
+                },
+                "type": {
+                    "href": "/v2/types/cat"
+                },
+                "organization": {
+                    "href": "/v2/organizations/id49"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 20,
+        "total_count": 88873,
+        "current_page": 1,
+        "total_pages": 4444,
+        "_links": {
+            "next": {
+                "href": "/v2/animals?page=2&type=cat"
+            }
+        }
+    }
+}

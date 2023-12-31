@@ -1,0 +1,1498 @@
+{
+    "animals": [
+        {
+            "id": 62421710,
+            "organization_id": "CA1344",
+            "url": "https://www.petfinder.com/bird/stuart-62421710/ca/san-martin/santa-clara-county-animal-care-and-control-ca1344/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Chicken",
+            "breeds": {
+                "primary": "Chicken",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "STUART",
+            "description": null,
+            "organization_animal_id": "A108752",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421710/1/?bust=1681146622"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T17:00:17+0000",
+            "published_at": "2023-04-10T17:00:15+0000",
+            "distance": null,
+            "contact": {
+                "email": null,
+                "phone": "(408) 686-3900",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "San Martin",
+                    "state": "CA",
+                    "postcode": "95046",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421710"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ca1344"
+                }
+            }
+        },
+        {
+            "id": 62421712,
+            "organization_id": "CA1344",
+            "url": "https://www.petfinder.com/bird/a107912-62421712/ca/san-martin/santa-clara-county-animal-care-and-control-ca1344/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Duck",
+            "breeds": {
+                "primary": "Duck",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Unknown",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "A107912",
+            "description": null,
+            "organization_animal_id": "A107912",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421712/1/?bust=1681146622"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T17:00:17+0000",
+            "published_at": "2023-04-10T17:00:15+0000",
+            "distance": null,
+            "contact": {
+                "email": null,
+                "phone": "(408) 686-3900",
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "San Martin",
+                    "state": "CA",
+                    "postcode": "95046",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421712"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ca1344"
+                }
+            }
+        },
+        {
+            "id": 62421629,
+            "organization_id": "WI507",
+            "url": "https://www.petfinder.com/bird/chica-62421629/wi/sheboygan/humane-society-of-sheboygan-county-wi507/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Chica",
+            "description": "Primary Color: Blue Weight: 0.06lbs",
+            "organization_animal_id": "39441",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421629/1/?bust=1681145794"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:46:32+0000",
+            "published_at": "2023-04-10T16:46:29+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@scadopt.org",
+                "phone": "(920) 458-2012",
+                "address": {
+                    "address1": "3209 N 21st Street",
+                    "address2": null,
+                    "city": "Sheboygan",
+                    "state": "WI",
+                    "postcode": "53083",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421629"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/wi507"
+                }
+            }
+        },
+        {
+            "id": 62421630,
+            "organization_id": "WI507",
+            "url": "https://www.petfinder.com/bird/pea-62421630/wi/sheboygan/humane-society-of-sheboygan-county-wi507/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": true,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Adult",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Pea",
+            "description": "Primary Color: Green Weight: 0.03lbs",
+            "organization_animal_id": "39442",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421630/1/?bust=1681145793"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:46:32+0000",
+            "published_at": "2023-04-10T16:46:29+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@scadopt.org",
+                "phone": "(920) 458-2012",
+                "address": {
+                    "address1": "3209 N 21st Street",
+                    "address2": null,
+                    "city": "Sheboygan",
+                    "state": "WI",
+                    "postcode": "53083",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421630"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/wi507"
+                }
+            }
+        },
+        {
+            "id": 62421142,
+            "organization_id": "VA96",
+            "url": "https://www.petfinder.com/bird/ostrich-62421142/va/charlottesville/charlottesville-albemarle-spca-va96/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parrot",
+            "breeds": {
+                "primary": "Budgie / Budgerigar",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": true
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Ostrich",
+            "description": null,
+            "organization_animal_id": "CHO-A-27858",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/2/?bust=1681143052&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/2/?bust=1681143052&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/2/?bust=1681143052&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/2/?bust=1681143052"
+                },
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/3/?bust=1681143053&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/3/?bust=1681143053&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/3/?bust=1681143053&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/3/?bust=1681143053"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62421142/1/?bust=1681143037"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:15+0000",
+            "published_at": "2023-04-10T16:00:13+0000",
+            "distance": null,
+            "contact": {
+                "email": "adoptions@caspca.org",
+                "phone": "(434) 973-5959",
+                "address": {
+                    "address1": "3355 Berkmar Dr.",
+                    "address2": null,
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "postcode": "22901",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421142"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/va96"
+                }
+            }
+        },
+        {
+            "id": 62421090,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/chocolate-chip-62421090/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "CHOCOLATE CHIP",
+            "description": null,
+            "organization_animal_id": "A426612",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421090"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421093,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/shortbread-62421093/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "SHORTBREAD",
+            "description": null,
+            "organization_animal_id": "A426621",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421093"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421096,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/snickerdoodle-62421096/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "SNICKERDOODLE",
+            "description": null,
+            "organization_animal_id": "A426610",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421096"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421097,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/peanut-butter-62421097/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "PEANUT BUTTER",
+            "description": null,
+            "organization_animal_id": "A426609",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421097"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421098,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/kiara-62421098/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "KIARA",
+            "description": null,
+            "organization_animal_id": "A426110",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421098"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421099,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/oatmeal-raisin-62421099/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "OATMEAL RAISIN",
+            "description": null,
+            "organization_animal_id": "A426611",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421099"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421100,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/butter-cookie-62421100/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "BUTTER COOKIE",
+            "description": null,
+            "organization_animal_id": "A426613",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421100"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421101,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/sugar-cookie-62421101/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "SUGAR COOKIE",
+            "description": null,
+            "organization_animal_id": "A426622",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421101"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421102,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/gingerbread-62421102/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "GINGERBREAD",
+            "description": null,
+            "organization_animal_id": "A426608",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421102"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421103,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/icebox-cookie-62421103/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "ICEBOX COOKIE",
+            "description": null,
+            "organization_animal_id": "A426620",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421103"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62421104,
+            "organization_id": "MA147",
+            "url": "https://www.petfinder.com/bird/fortune-cookie-62421104/ma/methuen/mspca-at-nevins-farm-ma147/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Parakeet",
+            "breeds": {
+                "primary": "Parakeet (Other)",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Baby",
+            "gender": "Unknown",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "FORTUNE COOKIE",
+            "description": null,
+            "organization_animal_id": "A426607",
+            "photos": [],
+            "primary_photo_cropped": null,
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T16:00:08+0000",
+            "published_at": "2023-04-10T16:00:07+0000",
+            "distance": null,
+            "contact": {
+                "email": "methuen@mspca.org",
+                "phone": "978-687-7453",
+                "address": {
+                    "address1": "400 Broadway",
+                    "address2": "Route 28",
+                    "city": "Methuen",
+                    "state": "MA",
+                    "postcode": "01844",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62421104"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ma147"
+                }
+            }
+        },
+        {
+            "id": 62420826,
+            "organization_id": "UT232",
+            "url": "https://www.petfinder.com/bird/timber-62420826/ut/eagle-mountain/wasatch-wanderers-ut232/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Chicken",
+            "breeds": {
+                "primary": "Chicken",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Timber",
+            "description": "Meet Timber! Timber loves to play with her friends and can even be taught to come to you with a...",
+            "organization_animal_id": "BiCH220378",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420826/1/?bust=1681140799"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T15:22:51+0000",
+            "published_at": "2023-04-10T15:22:49+0000",
+            "distance": null,
+            "contact": {
+                "email": "wasatchdwaterfowl@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Eagle Mountain",
+                    "state": "UT",
+                    "postcode": "84005",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62420826"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ut232"
+                }
+            }
+        },
+        {
+            "id": 62420829,
+            "organization_id": "UT232",
+            "url": "https://www.petfinder.com/bird/smugey-62420829/ut/eagle-mountain/wasatch-wanderers-ut232/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Chicken",
+            "breeds": {
+                "primary": "Chicken",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Smugey",
+            "description": null,
+            "organization_animal_id": "BiCH220380",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420829/1/?bust=1681140796"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T15:22:51+0000",
+            "published_at": "2023-04-10T15:22:49+0000",
+            "distance": null,
+            "contact": {
+                "email": "wasatchdwaterfowl@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Eagle Mountain",
+                    "state": "UT",
+                    "postcode": "84005",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62420829"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ut232"
+                }
+            }
+        },
+        {
+            "id": 62420827,
+            "organization_id": "UT232",
+            "url": "https://www.petfinder.com/bird/nicodemus-62420827/ut/eagle-mountain/wasatch-wanderers-ut232/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Chicken",
+            "breeds": {
+                "primary": "Chicken",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Female",
+            "size": "Small",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Nicodemus",
+            "description": null,
+            "organization_animal_id": "BiCH220381",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420827/1/?bust=1681140810"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T15:22:51+0000",
+            "published_at": "2023-04-10T15:22:49+0000",
+            "distance": null,
+            "contact": {
+                "email": "wasatchdwaterfowl@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Eagle Mountain",
+                    "state": "UT",
+                    "postcode": "84005",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62420827"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ut232"
+                }
+            }
+        },
+        {
+            "id": 62420828,
+            "organization_id": "UT232",
+            "url": "https://www.petfinder.com/bird/gaia-62420828/ut/eagle-mountain/wasatch-wanderers-ut232/?referrer_id=f9b09a62-8cd8-4a43-9217-ae395240e77d",
+            "type": "Bird",
+            "species": "Peacock / Peafowl",
+            "breeds": {
+                "primary": "Peacock / Peafowl",
+                "secondary": null,
+                "mixed": false,
+                "unknown": false
+            },
+            "colors": {
+                "primary": null,
+                "secondary": null,
+                "tertiary": null
+            },
+            "age": "Young",
+            "gender": "Male",
+            "size": "Medium",
+            "coat": null,
+            "attributes": {
+                "spayed_neutered": false,
+                "house_trained": false,
+                "declawed": null,
+                "special_needs": false,
+                "shots_current": false
+            },
+            "environment": {
+                "children": null,
+                "dogs": null,
+                "cats": null
+            },
+            "tags": [],
+            "name": "Gaia",
+            "description": null,
+            "organization_animal_id": "BiPe220009",
+            "photos": [
+                {
+                    "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787&width=100",
+                    "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787&width=300",
+                    "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787&width=600",
+                    "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787"
+                }
+            ],
+            "primary_photo_cropped": {
+                "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787&width=300",
+                "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787&width=450",
+                "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787&width=600",
+                "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/62420828/1/?bust=1681140787"
+            },
+            "videos": [],
+            "status": "adoptable",
+            "status_changed_at": "2023-04-10T15:22:51+0000",
+            "published_at": "2023-04-10T15:22:49+0000",
+            "distance": null,
+            "contact": {
+                "email": "wasatchdwaterfowl@gmail.com",
+                "phone": null,
+                "address": {
+                    "address1": null,
+                    "address2": null,
+                    "city": "Eagle Mountain",
+                    "state": "UT",
+                    "postcode": "84005",
+                    "country": "US"
+                }
+            },
+            "_links": {
+                "self": {
+                    "href": "/v2/animals/62420828"
+                },
+                "type": {
+                    "href": "/v2/types/bird"
+                },
+                "organization": {
+                    "href": "/v2/organizations/ut232"
+                }
+            }
+        }
+    ],
+    "pagination": {
+        "count_per_page": 20,
+        "total_count": 1486,
+        "current_page": 2,
+        "total_pages": 75,
+        "_links": {
+            "previous": {
+                "href": "/v2/animals?page=1&type=bird"
+            },
+            "next": {
+                "href": "/v2/animals?page=3&type=bird"
+            }
+        }
+    }
+}
